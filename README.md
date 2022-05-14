@@ -1,9 +1,4 @@
-<p align="center">
-<a><img src="https://abhishektungala.github.io/CSE326-CA-1-PROJECT/images/Abhi%20AD'S.png" width="300px"> </a>
-  
-
-  </p>
-
+#Portfolio!
 <h1 align="center">Welcome You<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
